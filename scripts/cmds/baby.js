@@ -7,6 +7,7 @@ module.exports = {
     version: "6.9.0",
     author: "dipto",
     countDown: 0,
+    usePrefix: false,
     role: 0,
     shortDescription: "Chat with bot",
     longDescription: "Chat with bot",
