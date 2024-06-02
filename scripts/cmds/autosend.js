@@ -53,7 +53,7 @@ https://www.facebook.com/Nazrul.404.Cyber`,
 				);
 				sentCount++;
 
-				const content = `${custom}`;
+				const content = `${nazrul}`;
 				const languageToSay = "tl";
 				const pathFemale = resolve(
 					__dirname,
