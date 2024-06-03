@@ -20,6 +20,8 @@
     "100049220893428",
     ""
   ],
+ "api": "https://nazrul-apis-09.onrender.com", 
+  "api2": "https://noobs-api2.onrender.com",
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
