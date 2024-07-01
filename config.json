@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100049220893428",
+    "100090879572769",
     ""
   ],
  "api": "https://nazrul-apis-09.onrender.com", 
@@ -27,11 +27,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Nazrul",
+  "OWNER": "SHAON AHMED",
   "AGE": "18",
   "GENDER": "MALE",
-  "nickNameBot": "😨🫦",
-  "FACEBOOK": "https://www.facebook.com/Nazrul.404.Cyber",
+  "nickNameBot": "😨SHAON PROJECT🫦",
+  "FACEBOOK": "https://www.facebook.com/100090879572769",
   "prefix": "/",
   "database": {
     "type": "sqlite",
